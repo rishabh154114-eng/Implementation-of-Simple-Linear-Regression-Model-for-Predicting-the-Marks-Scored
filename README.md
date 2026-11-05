@@ -17,6 +17,13 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
+/*
+Program to implement univariate Linear Regression to fit a straight line using least squares.
+Developed by: T.Rishabh srivatsav
+RegisterNumber: 212224113001
+*/
+
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
